@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: My name is Phuc, I'm Software Engineer from Vietnam
 🔭 I'm currently working in Ho Chi Minh City, Vietnam.<br>👯 I'm looking to partner with professional IT business organizations<br>🌱 I’m currently learning ReactJS, NextJS<br>📫 How to reach me mtp25032003@gmail.com
 
 
